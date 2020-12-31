@@ -38,6 +38,7 @@ Hello, my name is Andreas Asatera Sandi Nofa. I am a web developer with five yea
 ![Gitlab](https://img.shields.io/badge/-Gitlab-black?logo=gitlab&style=social)&nbsp;&nbsp;
 
 ![Andreas's Github Stats](https://github-readme-stats.vercel.app/api?username=coziboy&count_private=true&show_icons=true&include_all_commits=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coziboy&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=coziboy.coziboy)
