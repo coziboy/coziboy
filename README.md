@@ -21,5 +21,8 @@ I am a backend engineer with more than five years of experience.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=coziboy&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
+## Badges
+[![@coziboy's Holopin board](https://holopin.me/coziboy)](https://holopin.io/@coziboy)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=coziboy&icon=0&color=6)](https://visitcount.itsvg.in)
