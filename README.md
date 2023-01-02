@@ -5,7 +5,11 @@ Let me introduce myself 😁
 
 My name is Andreas Asatera Sandi Nofa. I currently live in Malang, Jawa Timur, Indonesia.
 
-I am a backend engineer with more than five years of experience.
+I am a full-stack developer with a passion for creating intuitive, dynamic web and mobile applications.
+
+With experience in a variety of programming languages and frameworks, I am skilled at developing responsive, user-friendly interfaces and delivering high-quality code.
+
+In my previous projects, I have excelled at collaborating with cross-functional teams to bring innovative ideas to life, and I am always looking for new challenges to tackle.
 
 
 ## 🌐 Socials:
